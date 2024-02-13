@@ -61,5 +61,5 @@ Weights: 400, 600, 700
 
 - Website - [Muhamad Mousa](https://www.arabtoutrial.com/)
 - Frontend Mentor - [@mousa-creations](https://www.frontendmentor.io/profile/mousa-creations)
-- Twitter - [@BalShrwhat](https://www.twitter.com/Musa_Hub)
+- Twitter - [@Musa_Hub)](https://www.twitter.com/Musa_Hub)
 
