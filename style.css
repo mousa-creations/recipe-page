@@ -32,7 +32,7 @@ body {
 
 main {
     padding: 30px 30px 0;
-    background-color: var(--Rose-White);
+    background-color: var(--White);
     border: 1px solid var(--Light-Grey);
     border-radius: 15px;
 }
