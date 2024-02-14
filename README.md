@@ -29,8 +29,8 @@ This project aims to create a recipe page using semantic HTML elements to enhanc
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/mousa-creations/recipe-page)
+- Live Site URL: [Live site URL](https://mousa-creations.github.io/recipe-page/)
 
 
 ## My process
