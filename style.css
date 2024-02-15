@@ -72,8 +72,8 @@ section {
     margin-bottom: 30px;
 }
 
-.Preparation {
-    background-color: var(--Rose-White);
+section.preparation {
+    background-color: var(--Eggshell);
     padding: 20px;
     border-radius: 5px;
 }
